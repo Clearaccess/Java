@@ -7,3 +7,9 @@ C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\
 C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.csproj.GenerateResource.Cache
 C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.exe
 C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.BLL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.DAL.Interface.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.DAL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.BLL.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.DAL.Interface.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GenerationText.DAL.pdb

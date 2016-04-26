@@ -1,0 +1,11 @@
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\obj\Debug\GenerationText.BLL.csprojResolveAssemblyReference.cache
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.BLL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.BLL.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.BLL.Interface.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.DAL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.DAL.Interface.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.BLL.Interface.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.DAL.Interface.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\bin\Debug\GenerationText.DAL.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\obj\Debug\GenerationText.BLL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.BLL\obj\Debug\GenerationText.BLL.pdb

@@ -1,0 +1,7 @@
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\obj\Debug\GenerationText.DAL.csprojResolveAssemblyReference.cache
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\bin\Debug\GenerationText.DAL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\bin\Debug\GenerationText.DAL.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\bin\Debug\GenerationText.DAL.Interface.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\bin\Debug\GenerationText.DAL.Interface.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\obj\Debug\GenerationText.DAL.dll
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GenerationText.DAL\obj\Debug\GenerationText.DAL.pdb

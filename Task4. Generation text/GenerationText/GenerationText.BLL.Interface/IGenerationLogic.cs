@@ -11,5 +11,6 @@ namespace GenerationText.BLL.Interface
         string GetGenerateText1();
         string GetGenerateText2(char begWord);
         string GetGenerateText3(int countWords);
+        void AddWords(List<string> text);
     }
 }
