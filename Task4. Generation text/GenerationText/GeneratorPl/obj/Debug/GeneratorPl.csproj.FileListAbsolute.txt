@@ -1,0 +1,9 @@
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GeneratorPl.exe.config
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GeneratorPl.exe
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\bin\Debug\GeneratorPl.pdb
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.csprojResolveAssemblyReference.cache
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.Form1.resources
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.Properties.Resources.resources
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.csproj.GenerateResource.Cache
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.exe
+C:\Users\isaik\OneDrive\Documents\Ado.net\Task4. Generation text\GenerationText\GeneratorPl\obj\Debug\GeneratorPl.pdb

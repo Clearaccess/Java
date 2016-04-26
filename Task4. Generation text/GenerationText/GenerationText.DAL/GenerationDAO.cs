@@ -8,7 +8,7 @@ using System.IO;
 
 namespace GenerationText.DAL
 {
-    public class GenerationDAO
+    public class GenerationDAO : IGenerationDAO
     {
         private static IDictionary<string,List<string>> words;
          
