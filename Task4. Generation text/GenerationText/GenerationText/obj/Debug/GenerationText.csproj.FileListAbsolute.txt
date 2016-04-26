@@ -1,9 +1,0 @@
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\bin\Debug\GenerationText.exe.config
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\bin\Debug\GenerationText.exe
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\bin\Debug\GenerationText.pdb
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.csprojResolveAssemblyReference.cache
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.Form1.resources
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.Properties.Resources.resources
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.csproj.GenerateResource.Cache
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.exe
-D:\Универ\6 семестр\CSIT341\Александр Ванюков\GenerationText\GenerationText\obj\Debug\GenerationText.pdb

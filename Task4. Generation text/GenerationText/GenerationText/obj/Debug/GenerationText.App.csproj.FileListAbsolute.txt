@@ -1,6 +1,0 @@
-D:\Универ\6 семестр\CSIT341\Task4. Generation text\GenerationText\GenerationText\bin\Debug\GenerationText.exe.config
-D:\Универ\6 семестр\CSIT341\Task4. Generation text\GenerationText\GenerationText\obj\Debug\GenerationText.exe
-D:\Универ\6 семестр\CSIT341\Task4. Generation text\GenerationText\GenerationText\obj\Debug\GenerationText.pdb
-D:\Универ\6 семестр\Java\Task4. Generation text\GenerationText\GenerationText\bin\Debug\GenerationText.exe.config
-D:\Универ\6 семестр\Java\Task4. Generation text\GenerationText\GenerationText\obj\Debug\GenerationText.exe
-D:\Универ\6 семестр\Java\Task4. Generation text\GenerationText\GenerationText\obj\Debug\GenerationText.pdb
