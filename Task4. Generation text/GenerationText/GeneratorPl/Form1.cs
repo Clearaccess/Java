@@ -16,5 +16,10 @@ namespace GeneratorPl
         {
             InitializeComponent();
         }
+
+        private void сВыборомКолчичестваСловToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

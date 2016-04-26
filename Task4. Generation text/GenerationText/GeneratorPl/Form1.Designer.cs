@@ -88,8 +88,9 @@
             // сВыборомКолчичестваСловToolStripMenuItem
             // 
             this.сВыборомКолчичестваСловToolStripMenuItem.Name = "сВыборомКолчичестваСловToolStripMenuItem";
-            this.сВыборомКолчичестваСловToolStripMenuItem.Size = new System.Drawing.Size(239, 22);
-            this.сВыборомКолчичестваСловToolStripMenuItem.Text = "С выбором колличества слов";
+            this.сВыборомКолчичестваСловToolStripMenuItem.Size = new System.Drawing.Size(245, 22);
+            this.сВыборомКолчичестваСловToolStripMenuItem.Text = "С указанием колличества слов";
+            this.сВыборомКолчичестваСловToolStripMenuItem.Click += new System.EventHandler(this.сВыборомКолчичестваСловToolStripMenuItem_Click);
             // 
             // Form1
             // 
