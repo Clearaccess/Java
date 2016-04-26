@@ -1,4 +1,6 @@
 ﻿using GenerationText.BLL.Interface;
+using GenerationText.DAL;
+using GenerationText.DAL.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,8 +11,19 @@ namespace GenerationText.BLL
 {
     public class GenerationLogic: IGenerationLogic
     {
+        IGenerationDAO data = new GenerateDAO();
+
         public string GetGenerateText1()
         {
+            Dictionary<string, List<string>> words = this.data.GetWords();
+            Dictionary<string, int> relWords = new Dictionary<string, int>();
+            int num = 0;
+            foreach(string i in words.Keys)
+            {
+                relWords.Add(i,num);
+            }
+            Random rnd = new Random(words.Count);
+            List<string> outputText = DFS(rnd.Next());
             return;
         }
 
@@ -23,5 +36,12 @@ namespace GenerationText.BLL
         {
             return;
         }
+
+        private void Generation1(string top)
+        {
+            Dictionary<string, bool> use = new Dictionary<string, bool>();
+        }
+
+        private
     }
 }
