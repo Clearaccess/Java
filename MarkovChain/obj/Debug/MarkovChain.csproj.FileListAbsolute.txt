@@ -1,4 +1,0 @@
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\Application\MarkovChain\bin\Debug\MarkovChain.dll
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\Application\MarkovChain\bin\Debug\MarkovChain.pdb
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\Application\MarkovChain\obj\Debug\MarkovChain.dll
-C:\Users\Aleksandr\Documents\Visual Studio 2015\Projects\Application\MarkovChain\obj\Debug\MarkovChain.pdb
