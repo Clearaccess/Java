@@ -21,7 +21,7 @@ public class DAO {
 
     private Menu readMenu() throws FileNotFoundException, IOException, DAOFormatException, MenuNullException  {
         HashMap<String, Dish> dishes=new HashMap<String,Dish>();
-        BufferedReader inMenu = new BufferedReader(new FileReader("D:\\Универ\\6 семестр\\Java\\Solution2\\src\\menu"));
+        BufferedReader inMenu = new BufferedReader(new FileReader("D:\\Универ\\6 семестр\\Java\\Solution2,3,4\\src\\menu"));
         String s;
         inMenu.readLine();
         String name = null;
@@ -57,7 +57,7 @@ public class DAO {
     }
 
     private ArrayList<Employee> readOrder() throws FileNotFoundException, IOException, DAOFormatException{
-        BufferedReader inOrder =new BufferedReader(new FileReader("D:\\Универ\\6 семестр\\Java\\Solution2\\src\\order"));
+        BufferedReader inOrder =new BufferedReader(new FileReader("D:\\Универ\\6 семестр\\Java\\Solution2,3,4\\src\\order"));
         String s;
 
         ArrayList<Employee> employees=new ArrayList<Employee>();
