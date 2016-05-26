@@ -13,8 +13,8 @@ public class DAO {
 
     public DAO() throws IOException, DAOFormatException, MenuNullException {
         if(!state) {
-            readMenu();
-            readOrder();
+            //readMenu();
+            //readOrder();
             state=true;
         }
     }

@@ -30,9 +30,9 @@ public class Connecter {
 
     public void serializationEmployees(ArrayList<Employee> employees) throws IOException {
         File f=new File("D:\\Универ\\6 семестр\\Java\\Solution5\\orders.data");
-        if(!f.exists()){
+        /*if(!f.exists()){
             f.createNewFile();
-        }
+        }*/
         FileOutputStream fileOut = new FileOutputStream(f);
         ObjectOutputStream out = new ObjectOutputStream(fileOut);
         out.writeObject(employees);
